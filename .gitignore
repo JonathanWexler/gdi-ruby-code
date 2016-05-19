@@ -1,3 +1,4 @@
 # Ignore these files:
 
 ruby_notes.rb
+.DS_Store
