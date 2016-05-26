@@ -10,4 +10,4 @@
 ### Give Motzart an array of friends, and turn his personal variables into a hash called `motzart_deets`
 - Make his important details stand out in all caps
 - Reverse all other Strings
-- Multiply all numberical values by 2
+- Multiply all numerical values by 2
